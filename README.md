@@ -10,7 +10,7 @@ Structure:
 - docs/ : placeholders for architecture/flow diagrams
 - LICENSE, .gitignore, CONTRIBUTING.md
 
-Run steps (developer):
+Run steps:
 1. python data/generate_synthetic_data.py --machines 6 --hours 72 --freq_min 1
 2. python firmware/edge_ai_code/train_model.py
 3. cd software/streamlit_dashboard && streamlit run app.py
