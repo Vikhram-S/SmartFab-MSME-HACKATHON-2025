@@ -1,4 +1,4 @@
-# SmartFab — Streamlit Demo & Edge-ML Repo
+# SmartFab — Modular IoT & AI Energy Optimization System for Indian MSMEs
 
 Modular IoT & Edge‑AI Energy Optimization prototype for MSMEs.
 This repo contains scripts to generate synthetic sensor data, train an edge-ready model, and run a Streamlit dashboard demo.
